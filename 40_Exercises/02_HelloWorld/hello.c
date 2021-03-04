@@ -9,7 +9,8 @@
 //		Standard Ausgabe von Text auf Bildschirm	"Out"
 #include <stdio.h>
 
-// int:	Datentyp Integer --> OS erwartet immer eine Zahl zurück nach beendigung des Programms (Für Vergleich mit Fehlermeldungskatalog --> return 0 = "Alles OK"
+// int:	Datentyp Integer --> OS erwartet immer eine Zahl zurück nach beendigung des Programms
+//		(Für Vergleich mit Fehlermeldungskatalog --> return 0 = "Alles OK"
 // main:	Anfangspunkt des Programms --> Pflicht für jedes ausführbare C-Programm
 int main()
 {	// {} --> Funktionsrumpf
